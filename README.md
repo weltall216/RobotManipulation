@@ -1,14 +1,13 @@
 # RobotManipulation
 
-
-SuPer Deep: A Surgical Perception Framework for Robotic Tissue Manipulation using Deep Learning for Feature Extraction
-
+## Depth
 Learning 3D Dynamic Scene Representations for Robot Manipulation
 
 Consistent Depth of Moving Objects in Video
 
-
 Image Matching from Handcrafted to Deep Features: A Survey
+
+## OCP
 
 Large ScaleModel Predictive Control with Neural Networks and Primal Active Sets
 
