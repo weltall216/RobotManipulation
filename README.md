@@ -20,7 +20,9 @@ Safe and Fast Tracking on a Robot Manipulator: Robust MPC and Neural Network Con
 
 A Computationally Efficient Robust Model Predictive Control Framework for Uncertain Nonlinear Systems
 
+## PO
 
+Direct Policy Optimization Using Deterministic Sampling and Collocation
 
 
 
